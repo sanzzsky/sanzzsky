@@ -1,7 +1,7 @@
-# Hello semua! 
+# Hello everybody!
 
-### Perkenalkan nama saya **Sandi Zikrullah**.<br>
- Saya seorang **Mahasiswa** di Universitas Muhammadiyah Riau.<br>
+### my name **Sandi Zikrullah**.<br>
+ I am a **Student** at Muhammadiyah Riau University.<br>
 
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
 
